@@ -35,4 +35,16 @@
       "likes": 0,
       "image": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190707_63%2F1562462598960nPDMy_JPEG%2FW7iKQEhTMzCF3flC1t0pzgzF.jpeg.jpg"
     }
+    {
+      "id": 4,
+      "name": "우리집",
+      "category": "한식",
+      "location": "아주대학교 정문에서 도보 2시간",
+      "priceRange": "1,000원-3,000원",
+      "rating": 4.99,
+      "description": "한식 맛집, 김치찌개 맛집,",
+      "recommendedMenu": ["김치찌개", "계란밥", "된장찌개"],
+      "likes": 42,
+      "image": "https://i.namu.wiki/i/EH-3WFkh5zTL2APUwNbulpJQlCc6whyUVHyyy98K_33YORIhFW-gCHuAlMa1wINsp3SAAdPKH7zPM7A783cWPa7q83jIl9wFg3tct3fnMf2kda_Bt3I2BGMIEQ6JrwLI00oMXti0KJyD6DkPKt8HBQ.webp"
+    }
   ]
